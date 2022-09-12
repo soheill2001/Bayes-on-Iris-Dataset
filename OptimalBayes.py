@@ -3,7 +3,7 @@ import random
 import math
 import numpy as np
 
-DATA_PATH = "HW1\Iris.csv"
+DATA_PATH = "Iris.csv"
 CONFUSION_MATRIX = "Confusion_Matrix:"
 ACCURACY = "Accuracy ="
 TRAIN_TEST_THRESHOLD = 0.7
